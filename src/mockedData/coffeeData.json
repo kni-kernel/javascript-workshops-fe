@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Americano",
+    "catchPhrase": "Aromatyczna kawa pobudzi do działania bogactwem smakowych doznań",
+    "description": "Espresso na bazie mieszanki Mocha Italia \"zatopione\" w gorącej wodzie. Pozwala rozkoszować się intensywnym smakiem czarnej kawy - jeśli lubisz, przygotujemy z odrobiną mleka.",
+    "icon": "https://api.costacoffee.pl/storage/files/2018/9/10/a09c12d0-eb88-4657-bd93-7fffd5180d00/americano.png",
+    "image": "https://api.costacoffee.pl/storage/files/2018/9/10/3620952d-fb51-4ac1-8149-1eff97e71170/americano.png"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "catchPhrase": "Pobudzające połączenie espresso, spienionego mleka, mlecznej pianki oraz posypki czekoladowej.",
+    "description": "Ring z espresso powstały na powierzchni kawy zapewnia intensywny smak od pierwszego łyku.",
+    "icon": "https://api.costacoffee.pl/storage/files/2018/9/10/57275cc9-4da7-4b6e-9563-cd0e03fa3cf1/cappuccino.png",
+    "image": "https://api.costacoffee.pl/storage/files/2018/9/10/900253b6-f1cd-4652-b66a-34d4531f2cae/cappuccino.png"
+  },
+  {
+    "id": 3,
+    "name": "Corto",
+    "catchPhrase": "Chwila przyjemności",
+    "description": "Corto, z którego wydobywamy słodycz i czekoladowy aromat, w połączeniu z mlekiem, takim jak lubisz i uwieńczone latte art.",
+    "icon": "https://api.costacoffee.pl/storage/files/2018/9/10/316f9790-efee-4d9c-a59f-adbab1dd0d84/corto.png",
+    "image": "https://api.costacoffee.pl/storage/files/2018/9/10/a7cdcd37-19ec-4324-b198-37e5327daa57/corto.png"
+  },
+  {
+    "id": 4,
+    "name": "Espresso",
+    "catchPhrase": "Klasyka na bazie naszej legendarnej mieszanki Mocha Italia",
+    "description": "Aromatyczna kawa, która doskonale pobudzi Cię do działania i zapewni bogactwo smakowych doznań. Złota crema na powierzchni to najlepszy wyznacznik jakości naszego espresso.",
+    "icon": "https://api.costacoffee.pl/storage/files/2018/9/10/59885d69-46cb-441c-bd87-1e6a8d06c0d9/expresso.png",
+    "image": "https://api.costacoffee.pl/storage/files/2018/9/10/811b8879-6e1d-4cba-9e43-7e2e756dd343/expresso.png"
+  },
+  {
+    "id": 5,
+    "name": "Flat White",
+    "catchPhrase": "Nasza gwiazda uwieńczona pięknym latte art",
+    "description": "Mleko z aksamitną pianką połączone z cortissimo, którego specjalny sposób parzenia wydobywa najszlachetniejszy aromat czekolady z naszej mieszanki Mocha Italia.",
+    "icon": "https://api.costacoffee.pl/storage/files/2018/9/10/1c2c91f9-5d04-47a5-99bc-d573745f1567/flat.png",
+    "image": "https://api.costacoffee.pl/storage/files/2018/9/10/231076fd-5f4f-4ae8-baa8-3f108c088c3c/flat white.png"
+  },
+  {
+    "id": 6,
+    "name": "Latte",
+    "catchPhrase": "Królowa wśród kaw",
+    "description": "Mleczna, delikatna kawa powstała z połączenia mleka i aromatycznego espresso. Idealna na popołudniową chwilę przyjemności.",
+    "icon": "https://api.costacoffee.pl/storage/files/2018/9/10/7a501fe7-acf6-4509-9447-d4d69fc63993/late.png",
+    "image": "https://api.costacoffee.pl/storage/files/2018/9/10/16af80de-be60-4a64-bc01-868e7761c29b/late.png"
+  }
+]
